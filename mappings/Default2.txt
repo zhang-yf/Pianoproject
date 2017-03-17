@@ -1,0 +1,14 @@
+0	L
+1	K
+3	J
+7	U
+9	I
+12	Keypad7
+13	Keypad8
+15	Backslash
+18	Keypad4
+21	Return
+25	H
+30	B
+51	Keypad9
+55	KeypadDivide
