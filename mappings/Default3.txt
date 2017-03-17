@@ -1,0 +1,9 @@
+12	K
+13	L
+15	B
+16	N
+17	H
+18	J
+50	Semicolon
+51	Period
+52	Quote
